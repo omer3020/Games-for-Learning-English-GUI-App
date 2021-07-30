@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmAddSpell.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmAddWordToGames.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmGameMissingLetter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmPlayGround.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmSoundToWord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmSpell.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmTypingGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmPressTheWordGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
